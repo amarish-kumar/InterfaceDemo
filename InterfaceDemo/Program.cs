@@ -11,7 +11,7 @@ namespace InterfaceDemo
             //Console.WriteLine(transaction.getAmount);
             //Transaction transaction = new Transaction();
             //transaction.startTransaction();
-            //transaction.doTransaction();
+            //transaction.doTransaction();  
             //Console.WriteLine(transaction.getAmount);
             var transaction = new Transaction();
             transaction.startTransaction();
